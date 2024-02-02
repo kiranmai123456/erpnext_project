@@ -1,0 +1,6 @@
+frappe
+pdf_on_submit
+hrms
+erpnext
+frappe_whatsapp
+payments
